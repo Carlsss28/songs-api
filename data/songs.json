@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Midnight Drive", "artist": "Luna Vega", "album": "Neon Roads", "year": 2021, "duration": "3:45", "genre": "Pop", "rating": 4.5, "imageUrl": "https://picsum.photos/seed/song1/400/400" },
+  { "id": 2, "title": "Electric Heart", "artist": "The Voltage", "album": "Currents", "year": 2019, "duration": "4:12", "genre": "Rock", "rating": 4.2, "imageUrl": "https://picsum.photos/seed/song2/400/400" },
+  { "id": 3, "title": "Andean Sunrise", "artist": "Inti Wayra", "album": "Altiplano", "year": 2022, "duration": "5:03", "genre": "Folk", "rating": 4.8, "imageUrl": "https://picsum.photos/seed/song3/400/400" },
+  { "id": 4, "title": "Concrete Dreams", "artist": "MC Orion", "album": "City Lights", "year": 2020, "duration": "3:28", "genre": "Hip Hop", "rating": 4.0, "imageUrl": "https://picsum.photos/seed/song4/400/400" },
+  { "id": 5, "title": "Slow Waves", "artist": "Marea", "album": "Salt & Sand", "year": 2023, "duration": "3:59", "genre": "Indie", "rating": 4.4, "imageUrl": "https://picsum.photos/seed/song5/400/400" },
+  { "id": 6, "title": "Rumba en Lima", "artist": "Los Chalacos", "album": "Puerto Alegre", "year": 2018, "duration": "3:33", "genre": "Latin", "rating": 4.6, "imageUrl": "https://picsum.photos/seed/song6/400/400" },
+  { "id": 7, "title": "Glass Skyline", "artist": "Aurora Keys", "album": "Reflections", "year": 2024, "duration": "4:40", "genre": "Electronic", "rating": 4.3, "imageUrl": "https://picsum.photos/seed/song7/400/400" },
+  { "id": 8, "title": "Blue Hour", "artist": "Miles Harper", "album": "After Dark", "year": 2017, "duration": "6:10", "genre": "Jazz", "rating": 4.7, "imageUrl": "https://picsum.photos/seed/song8/400/400" },
+  { "id": 9, "title": "Wildfire", "artist": "Scarlet Pines", "album": "Ember", "year": 2022, "duration": "3:21", "genre": "Country", "rating": 3.9, "imageUrl": "https://picsum.photos/seed/song9/400/400" },
+  { "id": 10, "title": "Paper Planes", "artist": "Nico & The Kites", "album": "Daydreams", "year": 2020, "duration": "3:05", "genre": "Pop", "rating": 4.1, "imageUrl": "https://picsum.photos/seed/song10/400/400" }
+]
